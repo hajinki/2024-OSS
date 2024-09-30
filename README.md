@@ -5,7 +5,7 @@ Open Source Software 2024
 
 **Lecturer**: Prof. Josue Obregon
 
-**Class time**: Tu 10:00 - 13:00 
+**Class time**: Tue 10:00 - 13:00 
 
 **Office Hours**: Mon 14:00 - 17:00; Changhak Hall, Room 334-1. 
 

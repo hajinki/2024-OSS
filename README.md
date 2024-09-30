@@ -13,8 +13,9 @@ Open Source Software 2024
 
 The main book for this course is:
 * FOGEL, Karl. **Producing Open Source Software**. [Available online](http://producingoss.com) (Creative Commons)
+  
 Other good references:
-* CHACON, Scott and STRAUB, Ben. **Pro Git. (2nd Edition)** Apress, (2014) [Available online](https://git-scm.com/book/en/v2)  
+* CHACON, Scott and STRAUB, Ben. **Pro Git. (2nd Edition)** Apress, (2014) [Available online](https://git-scm.com/book/en/v2) (Creative Commons)
 
 ## Course Objectives
 
